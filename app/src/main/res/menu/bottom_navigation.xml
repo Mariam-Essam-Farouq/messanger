@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    app:cnb_unselectedColor="#fff"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+    <item
+        android:id="@+id/item1"
+        android:title="Messages"
+        app:cnb_iconColor="#fff"
+        android:icon="@drawable/ic_message"
+        app:cnb_textColor="#fff"
+        app:cnb_backgroundColor="#1566e0"
+        />
+
+    <item
+        android:id="@+id/item2"
+        android:title="Waiting"
+        android:enabled="true"
+        app:cnb_iconColor="#fff"
+        android:icon="@drawable/ic_watch_later"
+        app:cnb_textColor="#fff"
+        app:cnb_backgroundColor="#1566e0"
+        />
+
+
+
+    <item
+        android:title="Contacts"
+        app:cnb_backgroundColor="#1566e0"
+        app:cnb_textColor="#fff"
+        android:icon="@drawable/ic_contacts"
+        app:cnb_iconColor="#fff"
+        android:id="@+id/item3"/>
+    <item
+        android:title="Groups"
+        app:cnb_backgroundColor="#1566e0"
+        app:cnb_textColor="#fff"
+        android:icon="@drawable/ic_baseline_group_24"
+        app:cnb_iconColor="#fff"
+        android:id="@+id/item4"/>
+
+</menu>

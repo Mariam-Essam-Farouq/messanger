@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Messenger</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="CreateContact">Create new contact</string>
+    <string name="NameTextView">Name:</string>
+    <string name="PhoneNumberTextView">Number:</string>
+    <string name="SaveButten">Save</string>
+    <string name="CreateContactText">Create contact</string>
+    <string name="SendMessage">Send message</string>
+    <string name="delete">Delete contact</string>
+    <string name="delete2">Delete Message</string>
+    <string name="label">set date?</string>
+    <string name="PHONE_CONTACTS">Phone contacts</string>
+    <string name="ContatsInfo">Contact infromations</string>
+    <string name="Groups">groups</string>
+    <string name="btnDelete">Delete Group</string>
+    <string name="groupname">GroupName:</string>
+    <string name="editgroup">Edit Group</string>
+</resources>
